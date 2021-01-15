@@ -1,3 +1,33 @@
 .ref {
     font-size: 10px
 }
+
+.project{
+    padding: 20px
+}
+
+.about{
+    padding-top:10px;
+    text-align: center;
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+}
+
+.link.git:hover{
+    color: #414141;
+}
+
+.link.linkedin:hover{
+    color: #0a66c2;
+}
+
+.link.ig:hover{
+    color: #635bdf;
+}
+
+.link.spotify:hover{
+    color: #4baf50;
+}
