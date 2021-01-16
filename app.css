@@ -13,16 +13,23 @@ body{
 
 .about{
     padding-top:10px;
+    padding-bottom: 10px;
     text-align: center;
 }
 
-.navbar{
-     background-color:#727273
+.profilePic{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.mainTheme{
+     background-color:#727273;
+     color: white;
 }
 
 .link{
     color: black;
-    text-decoration: none;
+    /*text-decoration: none;*/
 }
 
 .link.git:hover{
