@@ -1,20 +1,31 @@
+/* Color Theme Swatches in Hex */
+.Niebieski-1-hex { color: #295775; }
+.Niebieski-2-hex { color: #A1D5F7; }
+.Niebieski-3-hex { color: #56B5F5; }
+.Niebieski-4-hex { color: #4C6575; }
+.Niebieski-5-hex { color: #448FC2; }
+
 body{
-    background-color: #f2f2f2;
-    color: #3F5259;
-}
-
-.ref {
-    font-size: 10px
-}
-
-.project{
-    padding: 20px
+    background-color: #F2F2F2;
+    color: #295775;
 }
 
 .about{
-    padding-top:10px;
-    padding-bottom: 10px;
+    padding-top:50px;
+    padding-bottom: 50px;
     text-align: center;
+}
+
+.about p{
+    font-size: 1.5em;
+}
+
+.about h1{
+    font-size: 4.5em;
+}
+
+.about h2{
+    font-size: 3em;
 }
 
 .profilePic{
@@ -23,12 +34,17 @@ body{
 }
 
 .mainTheme{
-     background-color:#727273;
+     background-color:#448FC2;
      color: white;
+}
+
+.project{
+    padding: 20px
 }
 
 .link{
     color: black;
+    /*padding: 50px 0px;*/
     /*text-decoration: none;*/
 }
 
@@ -46,4 +62,8 @@ body{
 
 .link.spotify:hover{
     color: #4baf50;
+}
+
+.ref {
+    font-size: 10px
 }
