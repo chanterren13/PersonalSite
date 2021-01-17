@@ -10,17 +10,17 @@ body{
     color: #4C6575;
 }
 
-.about{
+#about{
     padding-top:50px;
     padding-bottom: 50px;
     text-align: center;
 }
 
-.about p{
+#about p{
     font-size: 1.5em;
 }
 
-.about h1{
+#about h1{
     font-size: 4.5em;
 }
 
