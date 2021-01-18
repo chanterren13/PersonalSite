@@ -1,3 +1,13 @@
+
+
+window.onscroll = function() {
+    let home = document.querySelector('.home-link');
+    if(window.scrollY == 0){
+        console.log(1);
+        setActive(home);
+    }
+};
+
 function setActive(elem){
     let currActive = document.querySelector('.active');
     currActive.classList.remove('active');
