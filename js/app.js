@@ -1,3 +1,9 @@
+function setActive(elem){
+    let currActive = document.querySelector('.active');
+    currActive.classList.remove('active');
+    elem.classList.add('active');
+}
+
 let about = document.querySelector('.about-link');
 if(about){
     about.addEventListener('click', function(){
@@ -6,6 +12,7 @@ if(about){
                 let aboutY = aboutSec.getBoundingClientRect().top;
                 window.scrollTo(0, aboutY);
             }
+            setActive(about);
     });
 }
 
@@ -17,6 +24,7 @@ if(projects){
                 let projY = projectSec.getBoundingClientRect().top;
                 window.scrollTo(0, projY);
             }
+            setActive(projects);
     });
 }
 
@@ -28,5 +36,6 @@ if(links){
                 let linkY = linkSec.getBoundingClientRect().top;
                 window.scrollTo(0, linkY);
             }
+            setActive(links);
     });
 }
