@@ -10,6 +10,14 @@ body{
     color: #4C6575;
 }
 
+.nav-link{
+    color: #4C6575;
+}
+
+.nav-link.active{
+    color:#295775;
+}
+
 #about{
     padding-top:50px;
     padding-bottom: 50px;
