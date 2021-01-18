@@ -10,6 +10,10 @@ body{
     color: #4C6575;
 }
 
+.nav-item{
+    padding-left:20px;
+}
+
 .nav-link{
     color: #4C6575;
 }
