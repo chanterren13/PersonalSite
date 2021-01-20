@@ -1,0 +1,12 @@
+.skill{
+    background-color: white;
+    border: 1px solid black;
+    height: 10px;
+    margin-bottom: 15px;
+    margin-top: 7px;
+}
+
+.python{
+    width: 90%;
+    background-color: green;
+}
