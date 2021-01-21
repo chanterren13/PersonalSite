@@ -6,7 +6,37 @@
     margin-top: 7px;
 }
 
+.java{
+    width: 95%;
+    background-color: green;
+}
+
 .python{
     width: 90%;
-    background-color: green;
+    background-color: #6FAC56;
+}
+
+.c{
+    width:85%;
+    background-color: #D2D64D;
+}
+
+.html{
+    width: 80%;
+    background-color: #F9E54B;
+}
+
+.js{
+    width: 80%;
+    background-color: #F9E54B;
+}
+
+.sql{
+    width: 75%;
+    background-color: #FBC350;
+}
+
+.r{
+    width: 70%;
+    background-color: #FFA433;
 }
