@@ -13,30 +13,30 @@
 
 .python{
     width: 90%;
-    background-color: #6FAC56;
+    background-color: #1E964C;
 }
 
 .c{
     width:85%;
-    background-color: #D2D64D;
+    background-color: #6FAC56
 }
 
 .html{
     width: 80%;
-    background-color: #F9E54B;
+    background-color: #D2D64D;
 }
 
 .js{
     width: 80%;
-    background-color: #F9E54B;
+    background-color: #D2D64D;
 }
 
 .sql{
     width: 75%;
-    background-color: #FBC350;
+    background-color: #F9E54B;
 }
 
 .r{
     width: 70%;
-    background-color: #FFA433;
+    background-color: #FBC350;
 }
