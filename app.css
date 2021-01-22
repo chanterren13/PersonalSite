@@ -1,4 +1,5 @@
 /* Color Theme Swatches in Hex */
+/* Courtesy of Adobe */
 .Niebieski-1-hex { color: #295775; }
 .Niebieski-2-hex { color: #A1D5F7; }
 .Niebieski-3-hex { color: #56B5F5; }
@@ -12,6 +13,7 @@ body{
 
 .nav-item{
     padding-left:20px;
+    font-size: 1.5em;
 }
 
 .nav-link{
@@ -24,7 +26,6 @@ body{
 
 #about{
     padding-top:50px;
-
     padding-bottom: 50px;
     text-align: center;
 }
