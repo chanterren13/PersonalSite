@@ -1,0 +1,42 @@
+.skill{
+    background-color: white;
+    border: 1px solid black;
+    height: 10px;
+    margin-bottom: 15px;
+    margin-top: 7px;
+}
+
+#java{
+    width: 95%;
+    background-color: green;
+}
+
+#python{
+    width: 90%;
+    background-color: #1E964C;
+}
+
+#c{
+    width:85%;
+    background-color: #6FAC56
+}
+
+#html{
+    width: 80%;
+    background-color: #D2D64D;
+}
+
+#js{
+    width: 80%;
+    background-color: #D2D64D;
+}
+
+#sql{
+    width: 75%;
+    background-color: #F9E54B;
+}
+
+#r{
+    width: 70%;
+    background-color: #FBC350;
+}
