@@ -45,6 +45,8 @@ h2{
 .profilePic{
     margin-top: 20px;
     margin-bottom: 30px;
+    max-width: 100%;
+    height: auto;
 }
 
 .mainTheme{
