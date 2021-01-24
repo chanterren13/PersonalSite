@@ -24,6 +24,14 @@ body{
     color:#295775;
 }
 
+.nav-link:hover{
+    color: #295775;
+}
+
+.btn:hover{
+    color: #295775;
+}
+
 #about{
     padding-top:50px;
     padding-bottom: 50px;
@@ -78,6 +86,10 @@ h2{
 
 .link.spotify:hover{
     color: #4baf50;
+}
+
+.card-img-top{
+    border-bottom: 1px solid #C7C8CA;
 }
 
 footer{
