@@ -8,10 +8,14 @@ for (let i = 0; i < 96; i++){
     await sleep(5000);
 } */
 
-let langBars = document.querySelectorAll(".skill");
-let levels = [95, 90, 85, 80, 80, 75, 70];
-for (let i = 0; i < langBars.length; i++){
-    loadBar(String(langBars[i].id), levels[i]);
+init();
+
+function init(){
+    let langBars = document.querySelectorAll(".skill");
+    let levels = [95, 90, 85, 80, 80, 75, 70];
+    for (let i = 0; i < langBars.length; i++){
+        loadBar(String(langBars[i].id), levels[i]);
+    }
 }
 
 function loadBar(lang, skill){
