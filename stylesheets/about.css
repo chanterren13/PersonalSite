@@ -1,3 +1,30 @@
+body{
+    background-color: #F2F2F2;
+    color: #4C6575;
+}
+
+.mainTheme{
+    background-color:#448FC2;
+    color: white;
+}
+
+.nav-item{
+    padding-left:20px;
+    font-size: 1.5em;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link.active{
+    color:#295775;
+}
+
+.nav-link:hover{
+    color: #295775;
+}
+
 .skill{
     background-color: white;
     border: 1px solid black;
