@@ -17,7 +17,7 @@ body{
 }
 
 .nav-link{
-    color: #4C6575;
+    color: white;
 }
 
 .nav-link.active{
@@ -78,6 +78,10 @@ h2{
 
 .link.spotify:hover{
     color: #4baf50;
+}
+
+footer{
+    padding-top: 100px;
 }
 
 .ref {
