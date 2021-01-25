@@ -88,9 +88,13 @@ h2{
     color: #4baf50;
 }
 
+.card{
+    transition: all 0.25s;
+}
+
 .card:hover{
-    border-right: 4px solid#C7C8CA;
-    border-bottom: 4px solid #C7C8CA;
+    box-shadow: 10px 10px 2px 1px #C7C8CA;
+    transform: translateY(-.25em);
 }
 
 .card-img-top{
