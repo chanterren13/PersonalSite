@@ -88,6 +88,11 @@ h2{
     color: #4baf50;
 }
 
+.card:hover{
+    border-right: 4px solid#C7C8CA;
+    border-bottom: 4px solid #C7C8CA;
+}
+
 .card-img-top{
     border-bottom: 1px solid #C7C8CA;
 }
