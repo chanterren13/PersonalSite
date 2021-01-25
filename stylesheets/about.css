@@ -25,6 +25,12 @@ body{
     color: #295775;
 }
 
+.link{
+    color: #4C6575;
+    /*padding: 50px 0px;*/
+    /*text-decoration: none;*/
+}
+
 .skill{
     background-color: white;
     border: 1px solid black;
@@ -66,4 +72,12 @@ body{
 #r{
     width: 70%;
     background-color: #FBC350;
+}
+
+footer{
+    padding-top: 100px;
+}
+
+.ref {
+    font-size: 10px
 }
