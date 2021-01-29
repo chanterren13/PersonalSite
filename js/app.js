@@ -20,7 +20,7 @@ function setActive(elem){
 }
 
 function setUpNav(){
-    let about = document.querySelector('.about-link');
+    /* let about = document.querySelector('.about-link');
     if(about){
         about.addEventListener('click', function(){
                 let aboutSec = document.getElementById('about');
@@ -30,7 +30,7 @@ function setUpNav(){
                 }
                 setActive(about);
         });
-    }
+    } */
     
     let projects = document.querySelector('.project-link');
     if(projects){
