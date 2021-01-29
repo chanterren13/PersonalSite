@@ -5,7 +5,6 @@ function init(){
     window.onscroll = function() {
         let home = document.querySelector('.home-link');
         if(window.scrollY == 0){
-            console.log(1);
             setActive(home);
         }
     };
