@@ -93,7 +93,7 @@ h2{
 }
 
 .card:hover{
-    box-shadow: 10px 10px 2px 1px #C7C8CA;
+    box-shadow: 10px 10px 2px 0.5px #C7C8CA;
     transform: translateY(-.25em);
 }
 
