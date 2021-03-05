@@ -12,7 +12,7 @@ init();
 
 function init(){
     let langBars = document.querySelectorAll(".skill");
-    let levels = [95, 90, 85, 80, 80, 75, 70];
+    let levels = [95, 90, 85, 80, 80, 75, 75];
     for (let i = 0; i < langBars.length; i++){
         loadBar(String(langBars[i].id), levels[i]);
     }
